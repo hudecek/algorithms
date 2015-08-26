@@ -1,2 +1,2 @@
 # algorithms
-homework programs for IB002 course and preparation for exam
+preparation for IB002 course exam
